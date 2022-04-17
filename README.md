@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! I am Mattis.
 
-<!--
-**mattiskleine/mattiskleine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineer and love to tinker around in my workshop.
+I am a developer of both embedded systems and applications.
+I am a designer loving pleasant, aesthetic and playful interactions for eye, ear and touch.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I play the saxophone.
+I am a kitesurfer.
+I am curious.
+I am a quick learner.
+I love the Nordics.
+I love my family.
